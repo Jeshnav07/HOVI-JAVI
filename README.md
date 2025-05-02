@@ -26,7 +26,7 @@ The goal of this project is to offer an informative and interactive travel plann
 🚀 Getting Started
 To run this project locally:
 
-Clone this repository.
+Clone this repository. 
 
 Import the SQL database into PHPMyAdmin.
 
